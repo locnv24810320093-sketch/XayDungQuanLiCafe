@@ -10,7 +10,7 @@
 | :----: | :------------------------ | :------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **01** | **Bùi Lên Hoàn**          | **Phần 1: Bán hàng & Khách hàng**      | • Lập hóa đơn & Order tại quầy (POS)<br>• Quản lý danh sách hóa đơn & Thanh toán<br>• Quản lý thông tin khách hàng & Tích điểm                                                         |
 | **02** | **Nguyễn Tiến Nhật Minh** | **Phần 2: Thực đơn & Kho nguyên liệu** | • Quản lý danh mục đồ uống & bánh ngọt (`FrmDanhMucMon`)<br>• Quản lý thực đơn, giá bán & trạng thái (`FrmQuanLyMonAn`)<br>• Quản lý tồn kho & Lập phiếu nhập kho (`FrmKhoNguyenLieu`) |
-| **03** | **Nguyễn Văn Lộc**        | **Phần 3: Bàn, Nhân sự & Thống kê**    | • Quản lý sơ đồ bàn & trạng thái phục vụ<br>• Quản lý hồ sơ nhân viên & phân quyền tài khoản<br>• Báo cáo thống kê doanh thu & nguyên liệu                                             |
+| **03** | **Nguyễn Văn Lộc**        | **Phần 3: Bàn, Nhân sự & Thống kê**    | • Quản lý sơ đồ bàn & trạng thái phục vụ (`FrmQuanLyBan`) <br>• Quản lý hồ sơ nhân viên & phân quyền tài khoản (`FrmQuanLyNhanVien`) <br>• Báo cáo thống kê doanh thu & nguyên liệu   (`FrmThongKe`)                                            |
 
 ---
 
